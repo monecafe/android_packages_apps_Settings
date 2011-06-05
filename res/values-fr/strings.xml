@@ -1479,4 +1479,9 @@
 
     <!-- Unlock finger settings screen, change unlock finger screen countdown hint on bottom of screen when the screen is locked out -->
     <string name="lockfinger_lockout_countdown_footer">Réessayez dans %d secondes.</string>
+
+    <!-- Proximity work-around -->
+    <string name="is_inaccurate_proximity_title">Capteur de proximité</string>
+    <string name="is_inaccurate_proximity_summary">Correctif pour le capteur de proximité, utiliser cette option pour obliger l\'écran à rester allumé après un appel.</string>
+
 </resources>
