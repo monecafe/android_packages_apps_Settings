@@ -3067,4 +3067,19 @@
 
     <!-- Unlock finger settings screen, change unlock finger screen countdown hint on bottom of screen when the screen is locked out -->
     <string name="lockfinger_lockout_countdown_footer">請在 %d 秒內再試一次。</string>
+    
+    <string name="increasing_ring_title">鈴聲音量漸增</string>
+    <!-- Sound settings screen, the caption of the checkbox for making incoming calls increas in volume -->
+    <string name="checkbox_increasing_ring">啟用鈴聲音量漸增</string>
+    <!-- Sound settings screen, the title of the volume bar to adjust the minimum increasing ring volume -->
+    <string name="increasing_ring_min_volume_title">起始鈴聲音量</string>
+    <string name="increasing_ring_volume_notice">注意:\nAs 當起始鈴聲音量設置高於正常音量設置時，將以正常音量設置播放鈴聲。</string>
+    <string name="increasing_ring_interval_title">漸增間隔</string>
+    <string name="increasing_ring_interval_eachring">每一次鈴聲</string>
+    <string name="increasing_ring_interval_half_second">0.5 秒</string>
+    <string name="increasing_ring_interval_1second">1 秒</string>
+    <string name="increasing_ring_interval_2seconds">2 秒</string>
+    <string name="increasing_ring_interval_3seconds">3 秒</string>
+    <string name="increasing_ring_interval_5seconds">5 秒</string>
+    <string name="increasing_ring_interval_10seconds">10 秒</string>
 </resources>
